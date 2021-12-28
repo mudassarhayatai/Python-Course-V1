@@ -9,3 +9,19 @@ In **Python I notebook** you will learn about these topics:
 - String formatting
 - Errors
 - Reading input in Python and how to use them
+
+In **Python II notebook** you will learn about these Python Topics:
+- Lists
+- Dictionaries
+- Tuples
+- Statements
+
+In **Python III notebook** you will learn about these Python Topics:
+- Functions
+- Args and kwargs
+- Scope
+- Map
+- Filter
+- Recursive functions
+- Lamba Functions
+- Generator Functions
